@@ -34,7 +34,7 @@ window.addEventListener("DOMContentLoaded", function () {
 
     });
 
-});
+
 
 let btns = document.querySelectorAll("*[data-modal-btn]");
 
@@ -340,5 +340,6 @@ function openSpoiler() {
     });
 }
 
+    });
 
 
